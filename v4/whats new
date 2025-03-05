@@ -1,0 +1,10 @@
+bruise detection:
+rgb to grayscale
+histogram equalization 
+normalization
+gaussian blurring
+otsu thresholding
+performance metrics
+
+ripeness:
+performance metrics
